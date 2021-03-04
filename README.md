@@ -12,7 +12,7 @@
 
 ## Snapshot
 
-  ![Snapshot](https://github.com/Accel-Byte/Dark-One/blob/main/Images/React2.png?raw=true)
+  ![Snapshot](https://github.com/Accel-Byte/Canvas/blob/main/Images/Canvas.png?raw=true)
   <br />
 
 
