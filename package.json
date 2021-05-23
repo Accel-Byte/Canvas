@@ -3,7 +3,7 @@
   "displayName": "Canvas",
   "description": "Minimal Canvas",
   "publisher": "dev1ce",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.53.0"
   },
@@ -17,21 +17,21 @@
   ],
   "activationEvents": [
     "onCommand:canvas.start",
-		"onCommand:canvas.refresh"
+    "onCommand:canvas.refresh"
   ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-				"command": "canvas.start",
-				"title": "Create New Canvas",
-        		"category": "Canvas"
-			},
-			{
-				"command": "canvas.refresh",
-				"title": "Refresh",
-        		"category": "Canvas"
-			}
+        "command": "canvas.start",
+        "title": "Create New Canvas",
+        "category": "Canvas"
+      },
+      {
+        "command": "canvas.refresh",
+        "title": "Refresh",
+        "category": "Canvas"
+      }
     ]
   },
   "scripts": {
